@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Jarad's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+![Jarad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarad1&show_icons=true&theme=radical)
 <!--
 **jarad1/jarad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
