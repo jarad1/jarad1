@@ -44,6 +44,7 @@ style="max-width:120%" align="center">
 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=plastic&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" />
 </p>
 
+[![jarad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jarad1)](https://github.com/jarad1/github-readme-stats)
 
 ![Jarad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarad1&show_icons=true&theme=radical)
 
