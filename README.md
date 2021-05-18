@@ -46,6 +46,7 @@ style="max-width:120%" align="center">
 
 [![jarad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jarad1)](https://github.com/jarad1/github-readme-stats)
 
+
 ![Jarad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarad1&show_icons=true&theme=radical)
 
 <!--
